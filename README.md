@@ -3,6 +3,6 @@ Test repository
 
 My first git commit
 
-new line 1
+New line 1
 
-new line 2
+New line 2
